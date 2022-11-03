@@ -4,7 +4,7 @@ namespace Estoque.FakeDB
 {
     public static class ProdutoFakeDB
     {
-        private static List<Produto> produtos;
+        private static List<Produto>? produtos;
 
         public static List<Produto> Produtos
         {

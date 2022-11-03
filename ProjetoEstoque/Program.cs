@@ -10,11 +10,12 @@ namespace ProjetoEstoque
             bool sair = false;
             while (sair == false)
             {
-                Console.WriteLine("\nBem Vindo");
+                Console.Clear();
+                Console.WriteLine("\nBem Vindo!");
                 Console.WriteLine("Escoha uma opção");
                 Console.WriteLine("1-Escolher Resturante");
-                Console.WriteLine("2-Solicitar o cardápio");
-                Console.WriteLine("3-Fazer um pedido");
+                Console.WriteLine("2-Entrar como empresa");
+                Console.WriteLine("3-Entrar como pessoa");
                 Console.WriteLine("0-Para sair");
                 int opcao = Convert.ToInt32(Console.ReadLine());
                 
@@ -25,8 +26,11 @@ namespace ProjetoEstoque
                         //Escoher restaurane();
                         CategoriaOperacao operacao = new CategoriaOperacao();
                         operacao.ListarTodos();
-                        int escolheu = Convert.ToInt32(Console.ReadLine());
-                        //operacao.EscolherRestaurante(escolheu);
+                        Console.WriteLine("\nEscolha um dos restaurantes e Digite o código do restaurante escolhido:");
+                        int rest = Convert.ToInt32(Console.ReadLine());
+                        operacao.EscolherRestaurante(rest);
+                        //CategoriaOperacao opera = new CategoriaOperacao();
+                        //AddRestaurante(opera);
                         break;
                     case 2 :
                         Console.Clear();

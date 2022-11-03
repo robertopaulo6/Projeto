@@ -16,8 +16,8 @@ public class CategoriaRepo : BaseRepositorio<Categoria>
 
     public override Categoria ReadOne(int chave)
     {
-        return CategoriaFakeDB.Categorias.
-            SingleOrDefault(cat => cat.Codigo == chave);
+        
+        return CategoriaFakeDB.Categorias.SingleOrDefault(cat => cat.Codigo == chave);
     }
 
     public override List<Categoria> ReadAll()
