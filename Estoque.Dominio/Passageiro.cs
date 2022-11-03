@@ -1,20 +1,17 @@
 namespace Estoque.Dominio;
 
-public class Passageiro : BasePessoa
+public class Juridica : BasePessoa
 {
-    private string documentoPessoal;
-    private string numeroCartao;
+    private string cnpj=string.Empty;
 
-    public string DocumentoPessoal { get => documentoPessoal; set => documentoPessoal = value; }
-    public string NumeroCartao { get => numeroCartao; set => numeroCartao = value; }
+    public string Cnpj { get => cnpj; set => cnpj = value; }
 
-    public Passageiro() : base()
+    public Juridica() : base()
     {}
 
-    public Passageiro(DateTime dataNascimento, string email, Endereco enderecoPes, long id, string nome, string senha, string telefone, string usuario, string documentoPessoal, string numeroCartao)
-        : base(dataNascimento, email, enderecoPes, id, nome, senha, telefone, usuario)
+    public Juridica(string nome, string email, string telefone,DateTime dataNascimento, string cidade, long id,  string senha,  string cnpj)
+        : base(nome,email,telefone,dataNascimento,  cidade, id,  senha)
     {
-        this.documentoPessoal = documentoPessoal;
-        this.numeroCartao = numeroCartao;
+        this.cnpj = cnpj;
     }
 }

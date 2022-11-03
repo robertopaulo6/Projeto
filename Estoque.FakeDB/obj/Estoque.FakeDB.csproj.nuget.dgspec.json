@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\Estoque.FakeDB.csproj": {}
+    "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\Estoque.FakeDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj": {
+    "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj",
         "projectName": "Estoque.Dominio",
-        "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj",
+        "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj",
         "packagesPath": "C:\\Users\\diskt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diskt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\Estoque.FakeDB.csproj": {
+    "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\Estoque.FakeDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\Estoque.FakeDB.csproj",
+        "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\Estoque.FakeDB.csproj",
         "projectName": "Estoque.FakeDB",
-        "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\Estoque.FakeDB.csproj",
+        "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\Estoque.FakeDB.csproj",
         "packagesPath": "C:\\Users\\diskt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\obj\\",
+        "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diskt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj": {
-                "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj"
+              "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj": {
+                "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj"
               }
             }
           }

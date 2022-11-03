@@ -22,3 +22,15 @@ C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao2\ProjetoEstoqueSolucao
 C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao2\ProjetoEstoqueSolucao\Estoque.Dominio\obj\Debug\net6.0\refint\Estoque.Dominio.dll
 C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao2\ProjetoEstoqueSolucao\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.pdb
 C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao2\ProjetoEstoqueSolucao\Estoque.Dominio\obj\Debug\net6.0\ref\Estoque.Dominio.dll
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\bin\Debug\net6.0\Estoque.Dominio.deps.json
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\bin\Debug\net6.0\Estoque.Dominio.dll
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\bin\Debug\net6.0\Estoque.Dominio.pdb
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.csproj.AssemblyReference.cache
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.AssemblyInfoInputs.cache
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.AssemblyInfo.cs
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.dll
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\refint\Estoque.Dominio.dll
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\Estoque.Dominio.pdb
+C:\Users\diskt\Downloads\PESSOAL\C#\ProjetoEstoqueSolucao\ProjetoEstoqueSolucao\Projeto\Estoque.Dominio\obj\Debug\net6.0\ref\Estoque.Dominio.dll

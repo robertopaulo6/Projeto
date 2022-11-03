@@ -35,7 +35,7 @@ public class CategoriaRepo : BaseRepositorio<Categoria>
         else
         {
             original.Descricao = instancia.Descricao;
-            original.Situacao = instancia.Situacao;
+            original.Nome = instancia.Nome;
             return original;
         }
     }

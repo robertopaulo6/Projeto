@@ -92,11 +92,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\ProjetoEstoque\\ProjetoEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\ProjetoEstoque\\ProjetoEstoque.csproj",
       "projectName": "ProjetoEstoque",
-      "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\ProjetoEstoque\\ProjetoEstoque.csproj",
+      "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\ProjetoEstoque\\ProjetoEstoque.csproj",
       "packagesPath": "C:\\Users\\diskt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\ProjetoEstoque\\obj\\",
+      "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\ProjetoEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diskt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -111,17 +111,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj": {
-              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj"
+            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj": {
+              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Dominio\\Estoque.Dominio.csproj"
             },
-            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\Estoque.FakeDB.csproj": {
-              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.FakeDB\\Estoque.FakeDB.csproj"
+            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\Estoque.FakeDB.csproj": {
+              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.FakeDB\\Estoque.FakeDB.csproj"
             },
-            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Repositorio\\Estoque.Repositorio.csproj": {
-              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Repositorio\\Estoque.Repositorio.csproj"
+            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Repositorio\\Estoque.Repositorio.csproj": {
+              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Repositorio\\Estoque.Repositorio.csproj"
             },
-            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Servico\\Estoque.Servico.csproj": {
-              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Servico\\Estoque.Servico.csproj"
+            "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Servico\\Estoque.Servico.csproj": {
+              "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Projeto\\Estoque.Servico\\Estoque.Servico.csproj"
             }
           }
         }
