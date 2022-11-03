@@ -6,8 +6,8 @@ namespace Estoque.Dominio
         {}
 
 
-        public Categoria(int id, string descricao, string endereco,string nome) 
-            : base(id, descricao,endereco, nome)
+        public Categoria(int codigo, string descricao, string nome) 
+            : base(codigo, descricao, nome)
         {
         }
     }

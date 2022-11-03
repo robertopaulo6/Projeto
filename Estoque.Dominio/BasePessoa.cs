@@ -2,33 +2,36 @@ namespace Estoque.Dominio;
 
 public abstract class BasePessoa
 {
-    protected string nome =string.Empty;
-    protected string email= string.Empty;
-    protected string telefone= string.Empty;
     protected DateTime dataNascimento;
-    protected string cidade= string.Empty;
+    protected string email;
+    protected Endereco enderecoPessoal;
     protected long id;
-    protected string senha= string.Empty;
+    protected string nome;
+    protected string senha;
+    protected string telefone;
+    protected string usuario;
 
-    public string Nome { get => nome; set => nome = value; }
-    public string Email { get => email; set => email = value; }
-    public string Telefone { get => telefone; set => telefone = value; }
     public DateTime DataNascimento { get => dataNascimento; set => dataNascimento = value; }
-    public string Cidade { get => cidade; set => cidade = value; }    
+    public string Email { get => email; set => email = value; }
+    public Endereco EnderecoPessoal { get => enderecoPessoal; set => enderecoPessoal = value; }    
     public long Id { get => id; set => id = value; }
+    public string Nome { get => nome; set => nome = value; }
     public string Senha { get => senha; set => senha = value; }
+    public string Telefone { get => telefone; set => telefone = value; }
+    public string Usuario { get => usuario; set => usuario = value; }
 
     public BasePessoa()
     {}
 
-    public BasePessoa(string nome, string email,string telefone,  DateTime dataNascimento,  string cidade, long id,string senha  )
+    public BasePessoa(DateTime dataNascimento, string email, Endereco enderecoPes, long id, string nome, string senha, string telefone, string usuario)
     {
-        this.nome = nome;
-        this.email = email;
-        this.telefone = telefone;
         this.dataNascimento = dataNascimento;
-        this.cidade = cidade;
+        this.email = email;
+        this.enderecoPessoal = enderecoPes;
         this.id = id;
+        this.nome = nome;
         this.senha = senha;
+        this.telefone = telefone;
+        this.usuario = usuario;
     }
 }

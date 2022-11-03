@@ -8,15 +8,16 @@ public class CategoriaRepo : BaseRepositorio<Categoria>
 {
     public override Categoria Create(Categoria instancia)
     {
-        int codigo = CategoriaFakeDB.Categorias.Last().Id + 1;
-        instancia.Id = codigo;
+        int codigo = CategoriaFakeDB.Categorias.Last().Codigo + 1;
+        instancia.Codigo = codigo;
         CategoriaFakeDB.Categorias.Add(instancia);
         return instancia;
     }
 
     public override Categoria ReadOne(int chave)
     {
-        return CategoriaFakeDB.Categorias.SingleOrDefault(cat => cat.Id == chave);
+        return CategoriaFakeDB.Categorias.
+            SingleOrDefault(cat => cat.Codigo == chave);
     }
 
     public override List<Categoria> ReadAll()
@@ -26,7 +27,7 @@ public class CategoriaRepo : BaseRepositorio<Categoria>
 
     public override Categoria Update(Categoria instancia)
     {
-        Categoria original = this.ReadOne(instancia.Id);
+        Categoria original = this.ReadOne(instancia.Codigo);
         if (original == null)
         {
             return null;
@@ -34,14 +35,14 @@ public class CategoriaRepo : BaseRepositorio<Categoria>
         else
         {
             original.Descricao = instancia.Descricao;
-            original.Endereco = instancia.Endereco;
+            original.Situacao = instancia.Situacao;
             return original;
         }
     }
 
     public override Categoria Delete(Categoria instancia)
     {
-        Categoria original = this.ReadOne(instancia.Id);
+        Categoria original = this.ReadOne(instancia.Codigo);
         if (original == null)
         {
             return null;

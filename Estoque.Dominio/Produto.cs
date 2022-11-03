@@ -8,8 +8,8 @@ namespace Estoque.Dominio
         public Produto() : base()
         {}
 
-        public Produto(int codigo, string descricao, string endereco, string nome, int codigoCategoria, int codigoSubcategoria)
-        : base(codigo, descricao,endereco, nome)
+        public Produto(int codigo, string descricao, string nome, int codigoCategoria, int codigoSubcategoria)
+        : base(codigo, descricao, nome)
         {
             this.codigoCategoria = codigoCategoria;
             this.codigoSubcategoria = codigoSubcategoria;

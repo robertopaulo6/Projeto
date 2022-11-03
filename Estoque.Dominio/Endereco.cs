@@ -2,14 +2,14 @@ namespace Estoque.Dominio;
 
 public class Endereco
 {
-    private string bairro= string.Empty;
-    private string cidade= string.Empty;
-    private string complemento= string.Empty;
-    private string estado= string.Empty;
+    private string bairro;
+    private string cidade;
+    private string complemento;
+    private string estado;
     private long id;
     private int numero;
-    private string pais= string.Empty;
-    private string rua= string.Empty;
+    private string pais;
+    private string rua;
 
     public string Bairro { get => bairro; set => bairro = value; }
     public string Cidade { get => cidade; set => cidade = value; }

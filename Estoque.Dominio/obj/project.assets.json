@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj",
       "projectName": "Estoque.Dominio",
-      "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj",
+      "projectPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\Estoque.Dominio.csproj",
       "packagesPath": "C:\\Users\\diskt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao\\ProjetoEstoqueSolucao\\Estoque.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\diskt\\Downloads\\PESSOAL\\C#\\ProjetoEstoqueSolucao2\\ProjetoEstoqueSolucao\\Estoque.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diskt\\AppData\\Roaming\\NuGet\\NuGet.Config"

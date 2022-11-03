@@ -2,16 +2,14 @@ namespace Estoque.Dominio
 {
     public abstract class BaseAncestral
     {
-        protected int id;
+        protected int codigo;
         protected string descricao = string.Empty;
-        protected string endereco= string.Empty;
         protected string nome= string.Empty;
 
-
-        public int Id
+        public int Codigo
         {
-            get => this.id;
-            set => this.id = value;
+            get => this.codigo;
+            set => this.codigo = value;
         }
 
         public string Descricao
@@ -20,12 +18,7 @@ namespace Estoque.Dominio
             set => this.descricao = value;
         }
 
-        public string Endereco
-        {
-            get => this.endereco;
-            set => this.endereco = value;
-        }
-         public string Nome
+        public string Nome
         {
             get => this.nome;
             set => this.nome = value;
@@ -34,11 +27,10 @@ namespace Estoque.Dominio
         public BaseAncestral()
         {}
 
-        public BaseAncestral(int id, string descricao, string endereco, string nome)
+        public BaseAncestral(int codigo, string descricao, string nome)
         {
-            this.id = id;
+            this.codigo = codigo;
             this.descricao = descricao;
-            this.endereco = endereco;
             this.nome = nome;
         }
 

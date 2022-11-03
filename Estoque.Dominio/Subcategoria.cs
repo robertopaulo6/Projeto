@@ -4,8 +4,8 @@ namespace Estoque.Dominio
     {
         private int codigoCategoria;
 
-        public Subcategoria(int id, string descricao,string endereco, string nome, int codigoCategoria)
-        : base(id, descricao,endereco, nome)
+        public Subcategoria(int codigo, string descricao, string nome, int codigoCategoria)
+        : base(codigo, descricao, nome)
         {
             this.codigoCategoria = codigoCategoria;
         }
